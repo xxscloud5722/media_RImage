@@ -18,3 +18,4 @@ image = "0.24"
 fast_qr = { version = "0.10.2", features = ["svg", "image"] }
 url = { version = "*", features = [] }
 thiserror = "*"
+rexiv2 = "0.10.0"
